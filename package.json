@@ -6,6 +6,11 @@
   "engines": {
     "vscode": "^1.78.0"
   },
+  "icon": "/watermelon.png",
+  "repository": {
+    "url": "https://github.com/PropheticRoc/pastel-watermelon-theme.git",
+    "type": "git"
+  },
   "categories": [
     "Themes"
   ],
