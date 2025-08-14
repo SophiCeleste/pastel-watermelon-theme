@@ -2,13 +2,13 @@
   "name": "pastel-watermelon-theme",
   "displayName": "Pastel Watermelon Theme",
   "description": "A pastel watermelon colored theme for vscode.",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "engines": {
     "vscode": "^1.78.0"
   },
-  "icon": "/watermelon.png",
+  "icon": "watermelon.png",
   "repository": {
-    "url": "https://github.com/PropheticRoc/pastel-watermelon-theme.git",
+    "url": "https://github.com/SophiCeleste/pastel-watermelon-theme.git",
     "type": "git"
   },
   "categories": [
