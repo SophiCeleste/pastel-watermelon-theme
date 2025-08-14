@@ -2,7 +2,7 @@
   "name": "pastel-watermelon-theme",
   "displayName": "Pastel Watermelon Theme",
   "description": "A pastel watermelon colored theme for vscode.",
-  "version": "0.0.3",
+  "version": "0.0.10",
   "engines": {
     "vscode": "^1.78.0"
   },
